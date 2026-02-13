@@ -1,4 +1,4 @@
-The work done for porting Kata Containers is upstream, so for we can clone the upstream.
+The work done for porting Kata Containers is upstream, so to use them we can clone the upstream.
 
 Upstream repo: https://github.com/kata-containers/kata-containers.git
 Branch: main
